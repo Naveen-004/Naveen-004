@@ -25,7 +25,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔  ***Competitive***😉 <br>
-✔ I’m currently learning **Python** , **Hadoop** & **NoSQL** <br>
-✔ Languages Known: Dart and Java <br>
+✔ I’m currently learning **ML** , **Hadoop** & **NoSQL** <br>
+✔ Languages Known: Python, Dart and Java <br>
 ✔ Currently working on Cricket Win Predictor <br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br>
