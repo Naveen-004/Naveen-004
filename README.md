@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Naveen Kumar</h1>
-<h3 align="center">Gamer |  Data Analysis Enthusiast</h3>
+<h3 align="center">Gamer |  Data Science Enthusiast</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/naveenkumar9192" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naveen" height="30" width="40" /></a>
 <a href="https://www.facebook.com/chinna.nk4//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Naveen Kumar" height="30" width="40" /></a>
