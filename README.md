@@ -30,7 +30,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Flutter](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Flutter](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Libraries I like working with:-
 
@@ -49,10 +49,12 @@
 
 <details><summary>Github stats</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-004&layout=compact&theme=dark)](https://github.com/Naveen-004?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-004&theme=dark)](https://github.com/Naveen-004?tab=repositories)
 <a href="https://github.com/Naveen-004" >
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naveen-004&count_private=true&show_icons=true&locale=en&theme=dark" alt="Naveen-004" />
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-004&theme=dark" alt="Naveen-004"/>
 
 </a>
 
