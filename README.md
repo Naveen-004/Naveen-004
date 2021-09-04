@@ -49,8 +49,6 @@
 
 <details><summary>Github stats</summary>
 
-![Language count](https://img.shields.io/github/languages/count/Naveen-004/Python-Notebooks?style=for-the-badge)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-004&layout=compact&theme=dark)](https://github.com/Naveen-004?tab=repositories)
 <a href="https://github.com/Naveen-004" >
 
