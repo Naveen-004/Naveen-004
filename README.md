@@ -63,6 +63,6 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔  ***Competitive***😉 <br>
-✔ I’m currently learning **ML** , **Hadoop** & **NoSQL** <br>
-✔ Currently working on Cricket Win Predictor <br>
+✔ I’m currently learning **ML** , **Web Development** & **NoSQL** <br>
+✔ Currently working on Personal Web application <br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br>
