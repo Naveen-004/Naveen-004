@@ -5,8 +5,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/naveenkumar9192" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naveen" height="30" width="40" /></a>
 <a href="https://www.facebook.com/chinna.nk4//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Naveen Kumar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Naveen_004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" height="30" width="40" /></a>
-</p>
 </p>
 
 ---
