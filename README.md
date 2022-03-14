@@ -68,5 +68,5 @@
 
 ✔  ***Competitive***😉 <br>
 ✔ I’m currently learning **ML** , **Web Development** & **Big data** <br>
-✔ Currently working on Personal Web application <br>
+✔ Currently working on Stock Price Prediction <br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br>
