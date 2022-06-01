@@ -19,9 +19,9 @@
 <p align="center">
   <em>
     This is ME, M.R.Naveen Kumar, a <b>Third year</b> undergraduate from <a href="https://www.jainuniversity.ac.in/"> <b>Jain Deemed-to-be University</b>, Bangalore</a>. <br>
-    A budding <b> Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    A budding <b> Programming Enthusiast</b>&nbsp;&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
+    <b>grow</b>
   </em> 
 </p>
 
@@ -64,7 +64,7 @@
 
 </details>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+&nbsp;***Talking about Personal Stuffs...***
 
 ✔  ***Competitive***😉 <br>
 ✔ I’m currently learning **ML** , **Web Development** & **Big data** <br>
