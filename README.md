@@ -18,7 +18,7 @@
 
 <p align="center">
   <em>
-    This is ME, M.R.Naveen Kumar, a <b>Third year</b> undergraduate from <a href="https://www.jainuniversity.ac.in/"> <b>Jain Deemed-to-be University</b>, Bangalore</a>. <br>
+    This is ME, M.R.Naveen Kumar, a <b>Final year</b> undergraduate from <a href="https://www.jainuniversity.ac.in/"> <b>Jain Deemed-to-be University</b>, Bangalore</a>. <br>
     A budding <b> Data Science Enthusiast</b>&nbsp;&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b>
