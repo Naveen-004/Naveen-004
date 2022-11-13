@@ -76,4 +76,4 @@
 ✔  ***Competitive***😉 <br>
 ✔ I’m currently learning **NLP** , **Pyspark** & **Big data** <br>
 ✔ Currently working on Streaming Analytics and NLP <br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br>
+✔ Fun fact : *Stackoverflow - The only hope*<br>
