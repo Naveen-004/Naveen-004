@@ -12,14 +12,14 @@
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/playlist/732ROgxOtYAUqf6DP0C8jr)
 
 ---
 
 <p align="center">
   <em>
     This is ME, M.R.Naveen Kumar, a <b>Third year</b> undergraduate from <a href="https://www.jainuniversity.ac.in/"> <b>Jain Deemed-to-be University</b>, Bangalore</a>. <br>
-    A budding <b> Programming Enthusiast</b>&nbsp;&nbsp,<br>who is <b>obsessed</b>
+    A budding <b> Data Science Enthusiast</b>&nbsp;&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b>
   </em> 
