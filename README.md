@@ -3,8 +3,11 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/naveenkumar9192" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naveen" height="30" width="40" /></a>
-<a href="https://www.facebook.com/chinna.nk4//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Naveen Kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/naveenkumar9192" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="naveen" height="30" width="40" /></a>
+<a href="https://twitter.com/NaveenKumar_004" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" alt="naveen" height="30" width="40" /></a>
+<a href="https://www.facebook.com/chinna.nk4//" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="Naveen Kumar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/naveenkumar_004_/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="Naveen Kumar" height="30" width="40" /></a>
+ <a href="https://www.discordapp.com/users/NK4#3250" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg" alt="Naveen Kumar" height="30" width="40" /></a>
 </p>
 
 ---
@@ -12,7 +15,8 @@
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/playlist/732ROgxOtYAUqf6DP0C8jr)
+<!-- [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/playlist/732ROgxOtYAUqf6DP0C8jr?si=23d56f27abde49cd) -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31miaxdd77kjbvzqz5oy42ibgxam&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
@@ -25,7 +29,7 @@
   </em> 
 </p>
 
-<details><summary>Skills</summary>
+<details open><summary>Skills</summary>
 
 ### Programming languages I know:-
 <p align="left"> 
@@ -58,7 +62,7 @@
   
 </details>
 
-<details><summary>Github stats</summary>
+<details ><summary>Github stats</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-004&theme=dark)](https://github.com/Naveen-004?tab=repositories)
 <a href="https://github.com/Naveen-004" >
