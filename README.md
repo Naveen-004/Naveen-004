@@ -58,7 +58,7 @@
  ### Editors I like to use:-
 
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- 
+![visualstudio](https://img.shields.io/badge/Visual_Studio-BE33FF?style=for-the-badge&logo=visual-studio&logoColor=white)
   
 </details>
 
