@@ -3,11 +3,11 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/naveenkumar9192" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="naveen" height="30" width="40" /></a>
-<a href="https://twitter.com/NaveenKumar_004" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="naveen" height="30" width="40" /></a>
-<a href="https://www.facebook.com/chinna.nk4//" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Naveen Kumar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/naveenkumar_004_/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="Naveen Kumar" height="30" width="40" /></a>
-<a href="https://www.discordapp.com/users/NK4#3250" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Naveen Kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/naveenkumar9192" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="naveen" height="30" width="40" /></a>
+<a href="https://twitter.com/NaveenKumar_004" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="naveen" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/naveenkumar_004_/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="Naveen Kumar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/chinna.nk4//" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Naveen Kumar" height="30" width="40" /></a>
+<a href="https://www.discordapp.com/users/NK4#3250" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="Naveen Kumar" height="30" width="40" /></a>
 </p>
 
 ---
