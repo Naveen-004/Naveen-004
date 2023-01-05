@@ -18,6 +18,7 @@
 <!-- [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/playlist/732ROgxOtYAUqf6DP0C8jr?si=23d56f27abde49cd) -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31miaxdd77kjbvzqz5oy42ibgxam&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
+
 ---
 
 <p align="center">
